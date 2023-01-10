@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhin1509&label=Profile%20views&color=0e75b6&style=flat" alt="abhin1509" /> </p>
 
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/12879727/abhinav)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhin1509" alt="abhin1509" /></a> </p>
 
 - 🔭 I’m currently working on [stackw3.app](https://stackw3.app)
